@@ -22,4 +22,5 @@ A Python-based encryption and decryption tool for both text and images using:
 1. Install dependencies:
 
    ```bash
-   pip install cryptography pycryptodome pillow
+   pip install -r requirements.txt
+
